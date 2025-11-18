@@ -34,12 +34,6 @@ Passionate about advancing digital twins, AI, and computational engineering.
 
 ---
 
-### 📌 Featured Projects
-
-- [shuvodeep-de (Resume)](https://github.com/southndsv1/shuvodeep-de)  
-
----
-
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=southndsv1&show_icons=true&theme=github_dark)
