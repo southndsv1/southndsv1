@@ -17,10 +17,6 @@ Building intelligent systems that learn from temporal patterns while maintaining
 
 ---
 
-## 📄 [View My Full Resume](link-to-resume)
-
----
-
 ## 🧑‍💻 About Me
 
 **Research Associate** at Texas State University's Ingram School of Engineering, specializing in:
