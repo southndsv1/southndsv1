@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shuvodeep (southndsv1)
+# 👋 Hi, I'm Shuvo!
 **AI & Time-Series Analysis Researcher | Digital Twin & Computational Engineering Specialist**
 
 Advancing the intersection of **time-series forecasting**, **brain-computer interfaces**, **AI-powered finance**, and **physics-informed machine learning**. 
