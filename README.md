@@ -88,11 +88,11 @@ Leveraging real-time simulations and AI for system monitoring, anomaly detection
 ## 🎓 Background
 
 **Education:**
-- Ph.D. in Engineering Science and Mechanics | Virginia Tech
+- Ph.D. in Mechanical Engineering (Computational) | Virginia Tech
 - Strong foundation in mechanics, materials science, and computational methods
 
 **Professional Experience:**
-- Research Associate, Texas State University (Current)
+- Lecturer, Texas State University (Current)
 - Oak Ridge National Laboratory
 - University of Alabama
 
