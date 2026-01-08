@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Shuvo!
 **AI & Time-Series Analysis Researcher | Digital Twin & Computational Engineering Specialist**
 
-Advancing the intersection of **time-series forecasting**, **brain-computer interfaces**, **AI-powered finance**, and **physics-informed machine learning**. 
+Multidisciplinary researcher and lecturer working on Physical AI and embodied robotic systems, with a focus on how materials, sensing, manufacturing physics, and control co-evolve with intelligence. My work integrates multiphysics and multiscale simulation, computational mechanics, additive manufacturing, and machine-learning-assisted design to create reliable, adaptive, and human-in-the-loop robotic and wearable systems. A particularly focus in my research is translating fabrication-induced mechanics (e.g., residual stress, anisotropy, viscoelasticity) into predictable sensing and control, bridging the gap between digital models and real physical behavior in robotics, aerospace, and advanced manufacturing.
 
-Building intelligent systems that learn from temporal patterns while maintaining rigorous physical consistency through digital twins and computational simulation.
+Research Interest: Physical AI • Embodied Intelligence • Agentic AI • Robotics & Robotic Manipulation • Human-in-the-Loop Systems • Tactile & Piezoresistive Sensing • Multiphysics & Multiscale Simulation • Mechanics-informed Machine Learning • Additive & Digital Manufacturing • Residual Stress & Process-Aware Design • Bayesian & Evolutionary Optimization • Bio-inspired Structures
 
 ---
 
