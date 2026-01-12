@@ -1,4 +1,4 @@
-Multidisciplinary researcher and lecturer working on Physical AI and embodied robotic systems, with a focus on how materials, sensing, manufacturing physics, and control co-evolve with intelligence. My work integrates multiphysics and multiscale simulation, computational mechanics, additive manufacturing, and machine-learning-assisted design to create reliable, adaptive, and human-in-the-loop robotic and wearable systems. A particularly focus in my research is translating fabrication-induced mechanics (e.g., residual stress, anisotropy, viscoelasticity) into predictable sensing and control, bridging the gap between digital models and real physical behavior in robotics, aerospace, and advanced manufacturing.
+Multidisciplinary researcher and lecturer working on Physical AI and embodied robotic systems, with a focus on how materials, sensing, manufacturing physics, and control co-evolve with intelligence. My work integrates multiphysics and multiscale simulation, computational mechanics, additive manufacturing, and machine-learning-assisted design to create reliable, adaptive, and human-in-the-loop robotic and wearable systems.
 
 Research Interest: Physical AI • Embodied Intelligence • Agentic AI • Robotics & Robotic Manipulation • Human-in-the-Loop Systems • Tactile & Piezoresistive Sensing • Multiphysics & Multiscale Simulation • Mechanics-informed Machine Learning • Additive & Digital Manufacturing • Residual Stress & Process-Aware Design • Bayesian & Evolutionary Optimization • Bio-inspired Structures
 
@@ -12,19 +12,6 @@ Research Interest: Physical AI • Embodied Intelligence • Agentic AI • Robo
 - 🔄 **Digital Twins & Simulation** - Real-time system monitoring and predictive maintenance
 - 🤖 **Large Language Models (LLMs)** - Prompt engineering and AI-assisted research workflows
 
----
-
-## 🧑‍💻 About Me
-
-**Research Associate** at Texas State University's Ingram School of Engineering, specializing in:
-- Computational mechanics and multiphysics simulations with scientific rigor
-- Hybrid modeling approaches combining classical physics with machine learning
-- Physics-Informed Neural Networks (PINNs) for engineering applications
-- LLM integration in research workflows and knowledge synthesis
-
-With **5+ years** of research experience spanning finite element analysis, high-performance computing, and intelligent systems, I'm building an integrated skill set that connects temporal dynamics, neural networks, and physical simulation—positioning myself at the intersection of modern AI and rigorous engineering science.
-
----
 
 ## 🚀 Core Technical Stack
 
@@ -54,7 +41,6 @@ With **5+ years** of research experience spanning finite element analysis, high-
 - **Git & Version Control** - Reproducible research practices
 - **Documentation** - Clear scientific communication
 
----
 
 ## 💡 Featured Areas of Expertise
 
@@ -70,18 +56,6 @@ Creating neural networks that respect physical laws and constraints. Bridging cl
 ### 🔄 Digital Twins & Predictive Maintenance
 Leveraging real-time simulations and AI for system monitoring, anomaly detection, and predictive maintenance across engineering domains.
 
----
-
-## 📚 Current Projects & Interests
-
-- 🚀 **Physics-Informed Neural Networks (PINNs)** - Multi-domain applications in heat transfer, structural analysis, and dynamics
-- 📈 **Time-Series Forecasting** - NASA turbofan engine data, financial markets, signal prediction
-- 🧠 **BCI Signal Processing** - Neural decoding with deep learning
-- 💻 **AI-Assisted Research** - LLM workflows for literature synthesis and documentation
-- 🎯 **Portfolio Building** - Showcasing end-to-end ML projects with scientific rigor
-
----
-
 ## 🎓 Background
 
 **Education:**
@@ -90,8 +64,7 @@ Leveraging real-time simulations and AI for system monitoring, anomaly detection
 
 **Professional Experience:**
 - Lecturer, Texas State University (Current)
-- Oak Ridge National Laboratory
-- University of Alabama
+- Scientific Researcher, Oak Ridge National Laboratory
 
 ---
 
