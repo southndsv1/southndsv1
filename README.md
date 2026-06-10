@@ -1,96 +1,32 @@
-Multidisciplinary researcher and lecturer working on Physical AI and Scientific AI (applied to material science), with a focus on how materials, sensing, manufacturing physics, and control co-evolve with intelligence. My work integrates multiphysics and multiscale simulation, computational mechanics, additive manufacturing, and machine-learning-assisted design to create reliable, adaptive, and human-in-the-loop robotic and wearable systems.
+# Hi, I'm Shuvo 👋
 
-Research Interest: Physical AI • Embodied Intelligence • Agentic AI • Robotics & Robotic Manipulation • Human-in-the-Loop Systems • Tactile & Piezoresistive Sensing • Multiphysics & Multiscale Simulation • Mechanics-informed Machine Learning • Additive & Digital Manufacturing • Residual Stress & Process-Aware Design • Bayesian & Evolutionary Optimization • Bio-inspired Structures
+Engineer, scientist, educator, and technology entrepreneur working at the intersection of AI, simulation, and advanced engineering.
 
----
+My current focus is on applying Large Language Models (LLMs), machine learning, and scientific AI to accelerate material discovery, engineering design, and product development. I build computational tools that combine data-driven intelligence with first-principles physics, leveraging high-performance computing (HPC), large-scale multiphysics simulations, and optimization to solve complex real-world problems.
 
-## 🎯 Career Focus
-**Active interest in building expertise across:**
-- ⏱️ **Time-Series Analysis & Forecasting** - LSTMs, Transformers, Physics-Informed Neural Networks
-- 🧠 **Brain-Computer Interface (BCI)** - Neural signal processing & real-time AI applications
-- 💰 **AI-Powered Finance** - Predictive modeling, risk analysis, market dynamics
-- 🔄 **Digital Twins & Simulation** - Real-time system monitoring and predictive maintenance
-- 🤖 **Large Language Models (LLMs)** - Prompt engineering and AI-assisted research workflows
+My experience spans AI/ML, computational mechanics, additive manufacturing, materials engineering, and simulation-driven design, with projects ranging from aerospace structures and advanced manufacturing to medical devices and robotics.
 
+### Current Focus
 
-## 🚀 Core Technical Stack
+* LLMs and AI agents for engineering and scientific workflows
+* Machine learning for material and process discovery
+* High-performance computing (HPC) and scientific computing
+* Large-scale multiphysics simulation and digital engineering
+* Mechanical design, optimization, and product development
+* AI-enabled manufacturing and autonomous engineering systems
 
-### **Time-Series & Sequential Learning**
-- **LSTM / GRU Networks** - Sequential pattern recognition
-- **Transformer Architectures** - Attention-based temporal modeling
-- **Physics-Informed Neural Networks (PINNs)** - Constraint-based learning
-- **Temporal Forecasting** - Univariate & multivariate prediction
+### Technical Areas
 
-### **Deep Learning Frameworks**
-- **PyTorch** - Primary framework for research & prototyping
-- **TensorFlow/Keras** - Production-grade implementations
-- **scikit-learn** - Classical ML & preprocessing
+**AI & Data Science:** LLMs, RAG, Agents, Transformers, PINNs, GNNs, Bayesian Optimization
 
-### **Scientific Computing**
-- **Python** - NumPy, SciPy, Pandas for numerical computing
-- **Finite Element Analysis** - ABAQUS/CAE, code-based FEA
-- **High-Performance Computing** - MPI, GPU acceleration
+**Simulation & HPC:** Finite Element Analysis, Multiphysics Modeling, Parallel Computing (MPI/OpenMP/CUDA), Scientific Computing
 
-### **Engineering Simulation**
-- **Multiphysics Modeling** - Heat transfer, structural mechanics, fluid dynamics
-- **Digital Twin Development** - Real-time system replication
-- **Scientific AI** - Embedding physics constraints in neural networks
+**Engineering & Product Development:** Mechanical Design, CAD/CAE, Design Optimization, Materials Engineering, Advanced Manufacturing
 
-### **Productivity & Research**
-- **Prompt Engineering** - Leveraging LLMs for research assistance
-- **Git & Version Control** - Reproducible research practices
-- **Documentation** - Clear scientific communication
+### Background
 
+* Lecturer & Research Scientist, Texas State University
+* Former Researcher, Oak Ridge National Laboratory
+* Ph.D. in Mechanical Engineering (Computational), Virginia Tech
 
-## 💡 Featured Areas of Expertise
-
-### 🧠 Time-Series Analysis & BCI
-Building neural decoders and signal processing pipelines for brain-computer interfaces. Interest in real-time temporal dynamics and interpretable models for neurophysiological data.
-
-### 💰 AI-Powered Finance
-Developing predictive models for financial time-series using advanced deep learning. Focus on risk modeling, market dynamics, and robust forecasting under uncertainty.
-
-### 🔬 Physics-Informed Machine Learning
-Creating neural networks that respect physical laws and constraints. Bridging classical simulation with modern AI for more efficient and generalizable models.
-
-### 🔄 Digital Twins & Predictive Maintenance
-Leveraging real-time simulations and AI for system monitoring, anomaly detection, and predictive maintenance across engineering domains.
-
-## 🎓 Background
-
-**Education:**
-- Ph.D. in Mechanical Engineering (Computational) | Virginia Tech
-- Strong foundation in mechanics, materials science, and computational methods
-
-**Professional Experience:**
-- Lecturer, Texas State University (Current)
-- Scientific Researcher, Oak Ridge National Laboratory
-
----
-
-## 📊 GitHub Activity
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=southndsv1&show_icons=true&theme=dark)](https://github.com/southndsv1)
-
----
-
-## 🔗 Connect & Collaborate
-
-I'm actively building my portfolio in time-series analysis and AI applications. Open to:
-- 🤝 Research collaborations (PINNs, BCI, AI-finance)
-- 💬 Technical discussions on deep learning & simulation
-- 📚 Contributing to open-source ML/scientific computing projects
-
-**Let's build something impactful at the intersection of AI and physics!**
-
----
-
-*Last updated: November 2025*
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=southndsv1&show_icons=true&theme=github_dark)
-
----
-
-### 🤝 Let’s connect!
-
-Feel free to reach out if you'd like to collaborate, discuss research, or connect professionally.  
-<!-- Optionally add: Contact, LinkedIn, or other social links here -->
+I'm interested in collaborating on technologies that transform how products, materials, and engineering systems are designed, simulated, and deployed.
