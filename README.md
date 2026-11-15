@@ -1,32 +1,20 @@
-# Hi, I'm Shuvo 👋
+### Hi, I'm Shuvo 👋
+**Teaching machines physics, and physics to engineers.**
 
-Engineer, scientist, educator, and technology entrepreneur working at the intersection of AI, simulation, and advanced engineering.
+Engineer · Scientist · Educator · Entrepreneur. I build tools that fuse first-principles physics with data-driven intelligence (LLMs, scientific ML, and HPC-scale multiphysics) so materials get discovered faster and products get designed smarter.
 
-My current focus is on applying Large Language Models (LLMs), machine learning, and scientific AI to accelerate material discovery, engineering design, and product development. I build computational tools that combine data-driven intelligence with first-principles physics, leveraging high-performance computing (HPC), large-scale multiphysics simulations, and optimization to solve complex real-world problems.
+🔭 **Exploring now**
+- LLM agents for engineering and scientific workflows
+- ML for materials and process discovery
+- AI-enabled, autonomous manufacturing
 
-My experience spans AI/ML, computational mechanics, additive manufacturing, materials engineering, and simulation-driven design, with projects ranging from aerospace structures and advanced manufacturing to medical devices and robotics.
+🧰 **Toolbox**
+- **AI/ML:** LLMs · RAG · Agents · Transformers · PINNs · GNNs · Bayesian Optimization
+- **Simulation & HPC:** FEA · Multiphysics · MPI / OpenMP / CUDA · Scientific Computing
+- **Engineering:** CAD/CAE · Design Optimization · Materials · Advanced Manufacturing
 
-### Current Focus
+🌐 **Where I've been:** aerospace structures → additive manufacturing → medical devices → robotics
 
-* LLMs and AI agents for engineering and scientific workflows
-* Machine learning for material and process discovery
-* High-performance computing (HPC) and scientific computing
-* Large-scale multiphysics simulation and digital engineering
-* Mechanical design, optimization, and product development
-* AI-enabled manufacturing and autonomous engineering systems
+📍 Lecturer & Research Scientist @ Texas State University · ex-Oak Ridge National Laboratory · Ph.D., Virginia Tech
 
-### Technical Areas
-
-**AI & Data Science:** LLMs, RAG, Agents, Transformers, PINNs, GNNs, Bayesian Optimization
-
-**Simulation & HPC:** Finite Element Analysis, Multiphysics Modeling, Parallel Computing (MPI/OpenMP/CUDA), Scientific Computing
-
-**Engineering & Product Development:** Mechanical Design, CAD/CAE, Design Optimization, Materials Engineering, Advanced Manufacturing
-
-### Background
-
-* Lecturer & Research Scientist, Texas State University
-* Former Researcher, Oak Ridge National Laboratory
-* Ph.D. in Mechanical Engineering (Computational), Virginia Tech
-
-I'm interested in collaborating on technologies that transform how products, materials, and engineering systems are designed, simulated, and deployed.
+🤝 **Let's build** technology that changes how products, materials, and engineering systems are designed, simulated, and deployed.
